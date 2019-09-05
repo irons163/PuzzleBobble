@@ -1,4 +1,4 @@
-package com.example.try_puzzlebobble;
+package com.irons.puzzlebobble;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

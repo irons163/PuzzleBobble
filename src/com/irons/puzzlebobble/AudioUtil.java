@@ -1,8 +1,10 @@
-package com.example.try_puzzlebobble;
+package com.irons.puzzlebobble;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
+
+import com.example.try_puzzlebobble.R;
 
 import android.content.Context;
 import android.media.AudioManager;

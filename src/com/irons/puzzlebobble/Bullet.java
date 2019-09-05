@@ -1,6 +1,8 @@
-package com.example.try_puzzlebobble;
+package com.irons.puzzlebobble;
 
 import java.util.LinkedList;
+
+import com.example.try_puzzlebobble.R;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

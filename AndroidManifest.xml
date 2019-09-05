@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="8"
-        android:targetSdkVersion="18" />
+        android:targetSdkVersion="28" />
 
     <application
         android:allowBackup="true"
@@ -15,7 +15,7 @@
         android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
 		 >
         <activity
-            android:name="com.example.try_puzzlebobble.MainActivity"
+            android:name="com.irons.puzzlebobble.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

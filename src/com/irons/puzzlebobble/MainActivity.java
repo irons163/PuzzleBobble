@@ -1,4 +1,6 @@
-package com.example.try_puzzlebobble;
+package com.irons.puzzlebobble;
+
+import com.example.try_puzzlebobble.R;
 
 import android.os.Bundle;
 import android.app.Activity;

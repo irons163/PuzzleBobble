@@ -1,4 +1,4 @@
-package com.example.try_puzzlebobble;
+package com.irons.puzzlebobble;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,6 +7,8 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
+
+import com.example.try_puzzlebobble.R;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

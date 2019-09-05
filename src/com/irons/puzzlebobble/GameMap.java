@@ -1,4 +1,4 @@
-package com.example.try_puzzlebobble;
+package com.irons.puzzlebobble;
 
 public class GameMap {
 		
